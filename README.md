@@ -43,9 +43,7 @@ The following models were identified as the best through grid search, with their
 
 ## Ensemble Model Results
 The ensemble model combining LR, RF, and XGB achieved the following results on the test set:
-- Accuracy: `0.89875`
-- ROC-AUC: `0.9402865176061052`
-
+#Accuracy: 0.84875, ROC-AUC: 0.7626553390377196
 
 ## Usage
 ### Training the Model
